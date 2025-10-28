@@ -1,17 +1,26 @@
-# Calculadora_CLI_Python
+# 🧮 Calculadora CLI em Python  
 
-Este é um projeto de **calculadora de linha de comando (CLI)** em Python.
+Bem-vindo(a) à **Calculadora CLI (Command Line Interface)** — um projeto simples, mas bem estruturado, feito em **Python** para ser executado diretamente no terminal.  
 
-## Funcionalidades
+Ele demonstra **boas práticas de modularização**, tratamento de erros e interação com o usuário na linha de comando.  
 
-- Soma, subtração, multiplicação e divisão
-- Potência e raiz quadrada
-- Tratamento de erros (como divisão por zero e números negativos para raiz)
+---
 
-## Como usar
+## 🚀 Funcionalidades
 
-1. Clone o repositório
-2. Execute o programa:
+✅ **Operações básicas**
 
-```bash
-python main.py
+- ➕ Soma  
+- ➖ Subtração  
+- ✖️ Multiplicação  
+- ➗ Divisão  
+
+⚡ **Extras**
+
+- 🔢 Potenciação  
+- 🧠 Raiz quadrada  
+- 🚫 Tratamento de erros (como divisão por zero e números negativos para raiz)
+
+---
+
+## 🧩 Estrutura do Projeto
