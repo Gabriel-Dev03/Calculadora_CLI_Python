@@ -27,7 +27,8 @@ Ele demonstra **boas práticas de modularização**, tratamento de erros e inter
 
 calculadora_cli/
 │
-├── \n main.py # Arquivo principal (menu interativo)
-├── \n calculos.py # Funções matemáticas
-├── \n utils.py # Funções auxiliares (entrada e menu)
-└── \n README.md # Documentação do projeto
+│
+├──  main.py # Arquivo principal (menu interativo)
+├──  calculos.py # Funções matemáticas
+├──  utils.py # Funções auxiliares (entrada e menu)
+└──  README.md # Documentação do projeto
