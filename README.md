@@ -24,3 +24,10 @@ Ele demonstra **boas práticas de modularização**, tratamento de erros e inter
 ---
 
 ## 🧩 Estrutura do Projeto
+
+calculadora_cli/
+│
+├── main.py # Arquivo principal (menu interativo)
+├── calculos.py # Funções matemáticas
+├── utils.py # Funções auxiliares (entrada e menu)
+└── README.md # Documentação do projeto
