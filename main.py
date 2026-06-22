@@ -31,7 +31,7 @@ def main():
         elif opcao == "6":
             a = ler_numero("Digite o número: ")
             try:
-                print(f"Resultado: {raiz_quadrada(a)}")
+                print(f"Resultado: {raiz_quadrada(a):.2f}")
             except ValueError as e:
                 print(f"Erro: {e}")
         else:
